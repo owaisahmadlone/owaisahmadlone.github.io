@@ -29,19 +29,19 @@ Work experience
   * Researched and developed a novel QnA pipeline based on evolving Retrieval Augmented Generation methods that handles queries of varying complexity using LLM Pipeline as data processors to enhance the QnA performance.
   * Integrated AWS Speech recognition and transcription service as well as Textract service through Python Web Socket APIs to enable live language recognition/audio transcribing and OCR use cases within local applications.
   * Supervisor: Shubham Saurabh
-Skills
-======
-* **Programming Languages**: Python, C++, C, JavaScript, SQL, Bash.
-* Programming Frameworks: 
-  * PyTorch 
-  * Huggingface
-  * Langchain 
-  * LlamaIndex 
-  * DsPy 
-  * neo4j 
-  * Pinecone 
-  * Milvus
-* **Technologies**: Deep Learning, Natural Language Processing, Retrieval Augmented Generation, Graph Machine Learning, Knowledge Graphs, AWS, Azure, Google Cloud, Docker, Git.
+
+* **Skills**
+  * **Programming Languages**: Python, C++, C, JavaScript, SQL, Bash.
+  * **Programming Frameworks**: 
+    * PyTorch 
+    * Huggingface
+    * Langchain 
+    * LlamaIndex 
+    * DsPy 
+    * neo4j 
+    * Pinecone 
+    * Milvus
+  * **Technologies**: Deep Learning, Natural Language Processing, Retrieval Augmented Generation, Graph Machine Learning, Knowledge Graphs, AWS, Azure, Google Cloud, Docker, Git.
 
 Publications
 ======
