@@ -50,7 +50,15 @@ I am a Computer Science and Engineering student at the Indian Institute of Techn
 **Relevant Courses:** Machine Learning, Deep Learning, Linear Algebra for AI and ML, Probability and Statistics, Stochastic Processes, Interpretable Machine Learning  
 **Duration:** Nov 2021 – Apr 2025
 
----
+---## Academic Achievements
+
+- **JEE Advanced 2021:** Secured All India Rank 277 among over 1 million candidates in one of the most competitive engineering entrance exams in India.
+- **JEE Mains 2021:** Achieved All India Rank 485 in the national-level entrance exam, demonstrating exceptional problem-solving and analytical skills.
+- **KVPY Fellowship:** Awarded the prestigious Kishore Vaigyanik Protsahan Yojana (KVPY) fellowship twice, in 2020 and 2019, with All India Ranks of 119 and 172, respectively.
+- **INMO Selection:** Selected to appear in the Indian National Mathematics Olympiad (INMO) in 2019, a highly competitive exam conducted by HBCSE, representing the top 0.15% of students nationwide.
+- **RMO Selection:** Regional Topper of the Regional Mathematical Olympiad(RMO) in 2019, a highly competitive exam conducted by HBCSE, India.
+- **IOQP Achievement:** Ranked among the top 1% of students nationally in the Indian Olympiad Qualifier for Physics (IOQP) in 2021, organized by HBCSE.
+- **IOQC Achievement:** Ranked among the top 1% of students nationally in the Indian Olympiad Qualifier for Chemistry (IOQP) in 2021, organized by HBCSE.
 
 ## Hobbies
 
@@ -59,3 +67,7 @@ I am a Computer Science and Engineering student at the Indian Institute of Techn
 - Building small projects to explore new technologies
 - Playing chess and solving puzzles
 - Learning new languages and exploring different cultures
+
+Service and leadership
+======
+* Academic Evaluator at **Asian Physics Olympiad, 2022** with participants from 28 countries in Asian Continent.
