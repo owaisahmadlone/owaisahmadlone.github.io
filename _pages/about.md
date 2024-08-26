@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "About me"
+title: "Owais Ahmad Lone"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Owais Ahmad Lone
 
 **Email:** [loneowaisahmad@gmail.com](mailto:loneowaisahmad@gmail.com)  
 **Personal Website:** [owaisahmadlone.github.io](https://owaisahmadlone.github.io/)  
@@ -50,7 +48,7 @@ I am a Computer Science and Engineering student at the Indian Institute of Techn
 **Relevant Courses:** Machine Learning, Deep Learning, Linear Algebra for AI and ML, Probability and Statistics, Stochastic Processes, Interpretable Machine Learning  
 **Duration:** Nov 2021 – Apr 2025
 
----## Academic Achievements
+## Academic Achievements
 
 - **JEE Advanced 2021:** Secured All India Rank 277 among over 1 million candidates in one of the most competitive engineering entrance exams in India.
 - **JEE Mains 2021:** Achieved All India Rank 485 in the national-level entrance exam, demonstrating exceptional problem-solving and analytical skills.
@@ -68,6 +66,6 @@ I am a Computer Science and Engineering student at the Indian Institute of Techn
 - Playing chess and solving puzzles
 - Learning new languages and exploring different cultures
 
-Service and leadership
+## Service and Leadership
 ======
 * Academic Evaluator at **Asian Physics Olympiad, 2022** with participants from 28 countries in Asian Continent.
